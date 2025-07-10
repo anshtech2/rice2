@@ -1,0 +1,7 @@
+path: ./  # Keep this if script is in the same folder
+train: images/train
+val: images/val
+
+names:
+  0: broken
+  1: unbroken
